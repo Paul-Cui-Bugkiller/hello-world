@@ -1,3 +1,4 @@
 # hello-world
 This is for assaignment 1.
-This part is for differing from the main.
+My first repo on Github.
+I love ☕ and 🥪.
